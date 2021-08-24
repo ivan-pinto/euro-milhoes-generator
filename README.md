@@ -12,7 +12,7 @@ Generate random numbers with GUI.
 
 ## To test:
 
--Linux: Run the installer wizard located in releases.
+- Linux: Run the installer wizard located in releases.
 
 ## Results:
 
