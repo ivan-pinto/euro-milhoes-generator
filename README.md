@@ -9,6 +9,7 @@ Generate random numbers with GUI.
 ## Tecnologies:
 
 - QT
+- C++
 
 ## To test:
 
